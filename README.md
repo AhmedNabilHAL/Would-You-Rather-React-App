@@ -8,7 +8,7 @@ This game was built for the Udacity React Nanodegree Program. The purpose of the
 
 ## How to Load the App
 
-- You can run a hosted version of the app at [myreads-ahmednabilhal.herokuapp.com/](https://myreads-ahmednabilhal.herokuapp.com/)
+- You can run a hosted version of the app at [myreads-ahmednabilhal.herokuapp.com/](https://would-you-rather-ahmednabilhal.herokuapp.com/)
 
 The project uses Node.js and the Create-React-App starter. If you do not have Node >= 6.x installed, you can download it here: [Node.js](https://nodejs.org/en/)
 
